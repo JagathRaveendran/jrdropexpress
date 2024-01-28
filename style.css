@@ -1,0 +1,32 @@
+#c1,#c2,#c3,#c4
+{
+    background-color: gray;
+    color: white;
+    
+}
+#c1:hover
+{
+    color: black;
+    background-color: white;
+}
+#c2:hover
+{
+    color: black;
+    background-color: white;
+}
+#c3:hover
+{
+    color: black;
+    background-color: white;
+}
+#c4:hover
+{
+    color: black;
+    background-color: white;
+}
+footer
+{
+    
+    background-color: black;
+    color: white;
+}
